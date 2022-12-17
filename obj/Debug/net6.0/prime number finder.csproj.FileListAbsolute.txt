@@ -1,0 +1,15 @@
+C:\Users\ahmed khaled\source\repos\prime number finder\bin\Debug\net6.0\prime number finder.exe
+C:\Users\ahmed khaled\source\repos\prime number finder\bin\Debug\net6.0\prime number finder.deps.json
+C:\Users\ahmed khaled\source\repos\prime number finder\bin\Debug\net6.0\prime number finder.runtimeconfig.json
+C:\Users\ahmed khaled\source\repos\prime number finder\bin\Debug\net6.0\prime number finder.dll
+C:\Users\ahmed khaled\source\repos\prime number finder\bin\Debug\net6.0\prime number finder.pdb
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\prime number finder.csproj.AssemblyReference.cache
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\prime number finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\prime number finder.AssemblyInfoInputs.cache
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\prime number finder.AssemblyInfo.cs
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\prime number finder.csproj.CoreCompileInputs.cache
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\prime number finder.dll
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\refint\prime number finder.dll
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\prime number finder.pdb
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\prime number finder.genruntimeconfig.cache
+C:\Users\ahmed khaled\source\repos\prime number finder\obj\Debug\net6.0\ref\prime number finder.dll
